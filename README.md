@@ -1,7 +1,7 @@
 # 🏭 Supply Chain Network Optimization Using MILP
 
 ## 📖 Overview
-This project tackles complex logistics and supply chain challenges using mathematical modeling and Mixed Integer Linear Programming (MILP). Developed in RStudio, the project walks through the complete formulation of a supply chain network. By setting up an objective function and applying rigorous real-world constraints—ranging from production limits to customer demand—the model successfully calculates the most cost-effective routing strategy.
+This project tackles complex logistics and supply chain challenges using mathematical modeling and Mixed Integer Linear Programming (MILP). Developed in RStudio, the project walks through the complete formulation of a supply chain network. By setting up an objective function and applying rigorous real-world constraints -ranging from production limits to customer demand—the model successfully calculates the most cost-effective routing strategy.
 
 ## 🎯 Objective
 The primary objective is to optimize a supply chain distribution network to minimize overall operational and transportation costs. By translating business requirements into mathematical constraints and running an MILP optimizer, the project aims to define the exact optimal flow of goods from factories, through intermediate distribution centers, directly to the final customer locations.
